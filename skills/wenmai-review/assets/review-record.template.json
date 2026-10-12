@@ -1,0 +1,28 @@
+{
+  "original": null,
+  "candidate": null,
+  "reviewer": null,
+  "independence": null,
+  "scope_requested": null,
+  "scope_reviewed": null,
+  "coverage_mode": null,
+  "reviewed_files_sha256": {},
+  "final_files_sha256": {},
+  "covered_entry_ids": [],
+  "sources_checked": [],
+  "findings": [
+    {
+      "location": null,
+      "original_or_expression": null,
+      "candidate": null,
+      "category": null,
+      "evidence": null,
+      "recommendation": null,
+      "resolution": null,
+      "recheck": null
+    }
+  ],
+  "status": null,
+  "limitations": [],
+  "detection_status": null
+}

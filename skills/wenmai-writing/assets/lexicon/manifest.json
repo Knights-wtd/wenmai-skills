@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "total": 1053,
+  "banks": {
+    "research": 258,
+    "analysis": 261,
+    "commentary": 260,
+    "literary": 274
+  },
+  "kinds": {
+    "书面词": 757,
+    "四字搭配": 72,
+    "成语": 214,
+    "表达框架": 10
+  },
+  "files_sha256": {
+    "research.jsonl": "89988ed12a7c06633e69564d06e2c99851cf0c461d8beb95b65f983d85e55e8c",
+    "analysis.jsonl": "6517c1104d3e6fdacff8af11d27d23b6199cb88d5c50729066b07b83b8435db6",
+    "commentary.jsonl": "94a79ab08705c75b454fa9acf557023360e931c6b96adbbbd9b313ffc53fa424",
+    "literary.jsonl": "520a38841065e27282928fd63a1d3d1ccd1aff3dca4d6f2ceb9e605ae4c41c54"
+  },
+  "provenance": "editorial",
+  "review_record": "review-record.json",
+  "review_status": "可交付"
+}
