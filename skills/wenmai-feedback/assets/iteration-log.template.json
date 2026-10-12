@@ -1,0 +1,53 @@
+{
+  "iteration_id": null,
+  "baseline": {
+    "file": null,
+    "sha256": null,
+    "measured": null,
+    "reported_percent": null,
+    "score_source": null
+  },
+  "candidate": {
+    "file": null,
+    "sha256": null,
+    "edited_indices_zero_based": [],
+    "edit_purpose": null,
+    "changes": []
+  },
+  "detection": {
+    "performed": null,
+    "tool": null,
+    "date": null,
+    "settings": null,
+    "include_references": null,
+    "input_range": null,
+    "score_percent": null,
+    "score_source": null,
+    "report_file": null,
+    "report_text_matches_candidate": null,
+    "repeat_scores": []
+  },
+  "color_comparison": {
+    "legend_available": null,
+    "excluded_regions": [],
+    "range_start": null,
+    "range_end_exclusive": null,
+    "alignment_verified": null,
+    "counts_before": null,
+    "counts_after": null,
+    "newly_marked_indices": null,
+    "lost_marked_indices": null
+  },
+  "evaluation": {
+    "content_accuracy": null,
+    "expression_quality": null,
+    "observed_detection_change": null,
+    "unresolved_factors": [],
+    "causal_claim_supported": null
+  },
+  "decision": {
+    "action": null,
+    "reason": null,
+    "user_stop_requested": null
+  }
+}

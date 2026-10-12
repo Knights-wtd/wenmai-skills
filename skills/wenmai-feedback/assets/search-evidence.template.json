@@ -1,0 +1,31 @@
+{
+  "record_id": null,
+  "status": null,
+  "platform": null,
+  "page_url": null,
+  "search_date": null,
+  "search_expression": null,
+  "search_fields": [],
+  "filters": {
+    "year_range": null,
+    "date_cutoff": null,
+    "document_types": [],
+    "other": []
+  },
+  "hit_count": null,
+  "count_scope": null,
+  "screenshot_file": null,
+  "screenshot_sha256": null,
+  "supports_step": null,
+  "caption": null,
+  "paper_metadata": {
+    "title": null,
+    "authors": [],
+    "year": null,
+    "source": null,
+    "doi": null
+  },
+  "completed_operations": [],
+  "remaining_planned_operations": [],
+  "failure_reason": null
+}

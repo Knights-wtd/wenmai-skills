@@ -1,0 +1,37 @@
+{
+  "document_id": null,
+  "genre": null,
+  "authorized_scope": null,
+  "baseline_file": null,
+  "baseline_sha256": null,
+  "protected_items": [
+    {
+      "location": null,
+      "original_text": null,
+      "category": null,
+      "reason": null,
+      "literal_preservation_required": null,
+      "source": null
+    }
+  ],
+  "certainty_and_stage": [
+    {
+      "location": null,
+      "qualifier": null,
+      "meaning": null,
+      "stage": null
+    }
+  ],
+  "author_voice": {
+    "preferences": [],
+    "provided_experiences": [],
+    "provided_judgments": []
+  },
+  "validation": {
+    "independent_information_preserved": null,
+    "claims_not_strengthened": null,
+    "planning_status_preserved": null,
+    "citations_checked": null,
+    "layout_checked": null
+  }
+}
